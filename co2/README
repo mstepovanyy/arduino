@@ -1,0 +1,14 @@
+Air checker.
+
+Hardware
+========
+1. Arduino nano
+2. Display 1602
+3. DHT-22
+4. photo resistor
+5. button
+6. Logic level convertor fot TTL
+7. Fan 25x25x10
+8. 2x500 Om potentiometers(LCD backlight, Fan regulator)
+9. 10k Om potentiometer (LCD contrast)
+10. MH-Z19 CO2 sensor
